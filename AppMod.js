@@ -1,4 +1,4 @@
-var App;
-(function (App) {
+var MyApp;
+(function (MyApp) {
     angular.module("MyApp", []);
-})(App || (App = {}));
+})(MyApp || (MyApp = {}));

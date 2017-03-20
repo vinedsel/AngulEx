@@ -1,4 +1,4 @@
-namespace App {
+namespace MyApp {
 
     angular.module("MyApp", []);
 

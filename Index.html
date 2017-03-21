@@ -8,9 +8,9 @@
     <script src="~/AngulEx/AppMod.js"></script>
 </head>
 
-<body>
+<body ng-controller="homeController as vm">
     <input type="text" ng-model="message" /> <br />
-    <h1>{{message}}</h1>
+    <h1>{{vm.message}}</h1>
 </body>
 
 </html>

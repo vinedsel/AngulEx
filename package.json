@@ -19,9 +19,9 @@
     "homepage": "https://github.com/vinedsel/AngulEx#readme",
     "devDependencies": {
         "@types/angular": "^1.6.9"
-    }
+    },
     "scripts": {
         "dev": "lite-server"
-    },
+    }
 
 }
